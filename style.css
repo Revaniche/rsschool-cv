@@ -1,0 +1,26 @@
+body {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+h1 {
+    text-align: center;
+}
+
+pre {
+    color: rebeccapurple;
+}
+
+img { 
+    display:block;
+    margin:auto;
+    width: 300px;
+}
+
+.name {
+    font-weight: bold;
+}
+
+
+
